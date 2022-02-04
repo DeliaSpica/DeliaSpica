@@ -1,5 +1,10 @@
-### Hi there 👋
+### Ciao a tutti👋
+I'm a student and junior front-end developer, but also a videogames and cats lover 🐈🎮
+- 🌱 I’m currently learning with the help of Develhope. 👩‍🎓💃
+- 🔭 I’m currently working on "cloning" a famous website 🤫
+- ⚡ Fun fact: If I could, I would eat pizza for my whole life. 🍕🍕🍕🍕❤️
 
+- 📫 How to reach me: EMAIL ---> deliahype99@gmail.com
 <!--
 **DeliaSpica/DeliaSpica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

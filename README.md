@@ -3,7 +3,7 @@
 ![RainbowSpongebobGIF (2)](https://user-images.githubusercontent.com/91212157/152605912-1cabac2f-bcbd-4cda-bc3c-7ef8d0d346cd.gif)
 
 
-I'm a student and junior front-end developer, but also a videogames and cats lover 🐈🎮
+I'm a student and junior front-end developer, and also a videogames and cats lover 🐈🎮
 - 🌱 I’m currently learning with the help of Develhope. 👩‍🎓💃
 - 🔭 I’m currently working on "cloning" a famous website 🤫
 - ⚡ Fun fact: If I could, I would eat pizza for my whole life. 🍕🍕🍕🍕❤️

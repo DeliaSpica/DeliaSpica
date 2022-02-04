@@ -4,7 +4,7 @@ I'm a student and junior front-end developer, but also a videogames and cats lov
 - 🔭 I’m currently working on "cloning" a famous website 🤫
 - ⚡ Fun fact: If I could, I would eat pizza for my whole life. 🍕🍕🍕🍕❤️
 
-- 📫 How to reach me: EMAIL ---> deliahype99@gmail.com
+- 📫 How to reach me: EMAIL ---> deliahype99@gmail.com | | LINKEDIN ---> https://www.linkedin.com/in/delia-spica-a785ba230/
 <!--
 **DeliaSpica/DeliaSpica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

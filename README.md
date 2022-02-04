@@ -1,4 +1,4 @@
-🌈🏳️‍🌈 HELLO WORLD 🏳️‍🌈🌈
+<h1>🏳️‍🌈HELLO WORLD🏳️‍🌈</h1>
 
 ![RainbowSpongebobGIF (2)](https://user-images.githubusercontent.com/91212157/152605912-1cabac2f-bcbd-4cda-bc3c-7ef8d0d346cd.gif)
 
@@ -7,9 +7,13 @@ I'm a student and junior front-end developer, but also a videogames and cats lov
 - 🌱 I’m currently learning with the help of Develhope. 👩‍🎓💃
 - 🔭 I’m currently working on "cloning" a famous website 🤫
 - ⚡ Fun fact: If I could, I would eat pizza for my whole life. 🍕🍕🍕🍕❤️
-- 📫 How to reach me: EMAIL ---> deliahype99@gmail.com | | LINKEDIN ---> https://www.linkedin.com/in/delia-spica-a785ba230/
 
-🔧 TECHNOLOGIES & TOOLS
+
+<img src="rainbow" width=10px height=5px></img>
+
+
+
+<h3>🔧 TECHNOLOGIES & TOOLS </h3>
 
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=orange)
@@ -23,3 +27,15 @@ I'm a student and junior front-end developer, but also a videogames and cats lov
 ![](https://img.shields.io/badge/Tool-GoogleChrome-informational?style=flat&logo=googlechrome&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Tool-Firefox-informational?style=flat&logo=firefox&logoColor=white&colorlightgrey)
 ![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=yellowgreen)
+
+
+<a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeliaSpica&theme=buefy&layout=compact" /></a>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/delia-spica-a785ba230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Delia%20Spica-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/DeliaSpica/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Delia%20Spica-blue?style=flat-square&logo=facebook"></a>
+<a href="mailto:deliahype99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deliahype99@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>

@@ -1,4 +1,5 @@
-### Ciao a tutti👋
+### HELLO WORLD ![RainbowSpongebobGIF](https://user-images.githubusercontent.com/91212157/152605789-e456f255-838e-4f22-9a29-c3867fe73273.gif)
+
 I'm a student and junior front-end developer, but also a videogames and cats lover 🐈🎮
 - 🌱 I’m currently learning with the help of Develhope. 👩‍🎓💃
 - 🔭 I’m currently working on "cloning" a famous website 🤫

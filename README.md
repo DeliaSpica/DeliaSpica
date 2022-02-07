@@ -8,6 +8,7 @@ I'm a student and junior front-end developer, and also a videogames and cats lov
 - 🔭 I’m currently working on "cloning" a famous website 🤫
 - ⚡ Fun fact: If I could, I would eat pizza for my whole life. 🍕🍕🍕🍕❤️
 
+- PancakeSwap clone that me and my team are working on: https://github.com/nadiromano/pancakesClone
 
 <img src="rainbow" width=10px height=5px></img>
 

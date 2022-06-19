@@ -3,9 +3,9 @@
 ![RainbowSpongebobGIF (2)](https://user-images.githubusercontent.com/91212157/152605912-1cabac2f-bcbd-4cda-bc3c-7ef8d0d346cd.gif)
 
 
-I'm a student and junior front-end developer, and also a videogames and cats lover 🐈🎮
-- 🌱 I’m currently learning with the help of Develhope. 👩‍🎓💃
-- 🔭 I’m currently working on "cloning" a famous website 🤫
+I'm a junior front-end developer, and also a videogames and cats lover 🐈🎮
+- 🌱 I’m currently learning new languages and to use new libraries for creating games in JavaScript! 🎮❤️
+- 🔭 I’m currently working on improving my skills to work on the ServiceNow platform.
 - ⚡ Fun fact: If I could, I would eat pizza for my whole life. 🍕🍕🍕🍕❤️
 
 - 🎮PancakeSwap clone that me and my team are working on: https://github.com/nadiromano/pancakesClone 🎮

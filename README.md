@@ -8,8 +8,6 @@ I'm a junior front-end developer, and also a videogames and cats lover 🐈🎮
 - 🔭 I’m currently working on improving my skills to work on the ServiceNow platform.
 - ⚡ Fun fact: If I could, I would eat pizza for my whole life. 🍕🍕🍕🍕❤️
 
-- 🎮PancakeSwap clone that me and my team are working on: https://github.com/nadiromano/pancakesClone 🎮
-
 <img src="rainbow" width=10px height=5px></img>
 
 
